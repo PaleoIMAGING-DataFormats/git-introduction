@@ -53,7 +53,17 @@ git push
 
 ## 4. Blockquote
 
+A standard blockquote can be written as:
+
 > Git allows changes to files to be tracked over time.
+
+GitHub Markdown also supports alerts:
+
+> [!NOTE]
+> This is a useful note.
+
+> [!WARNING]
+> Be careful before running this command.
 
 ## 5. Table
 
